@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     
-    int paul;
+    int paul =13;
     
 
     @Override
