@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:text="-From Lyra"
         android:paddingLeft="250dp"
-        android:textSize="30sp"
+        android:textSize="40sp"
         android:fontFamily="cursive"
         android:textColor="#EDEAEA"
         android:textStyle="bold"
