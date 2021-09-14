@@ -5,7 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     
-    int soumen;
+    int paul;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
